@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vadim</h1>
+<h1 align="center">Sup!</h1>
 <h3 align="center">I am software engineer from Russia</h3>
 
 - 📫 How to reach me **Tg: https://t.me/DrainEjnoyer**
